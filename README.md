@@ -6,4 +6,8 @@
 
 팀원 : 임정원, 김소정
 
-![1777E7B1-2D37-4FFC-BA0E-8702195CD39A_1_102_o](https://github.com/user-attachments/assets/e83abb03-fe6d-485b-a412-d93877c2ee3e)
+
+<p align="center">
+  <img src="![1777E7B1-2D37-4FFC-BA0E-8702195CD39A_1_102_o](https://github.com/user-attachments/assets/e83abb03-fe6d-485b-a412-d93877c2ee3e)
+">
+</p>
